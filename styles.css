@@ -1,0 +1,12 @@
+a img{
+    width:3rem;
+}
+
+.card img{
+    width:500px;
+    height:400px;
+}
+.card-body{
+    background-color: rgb(185, 185, 185);
+    color: black;
+}
