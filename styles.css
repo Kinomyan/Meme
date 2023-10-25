@@ -1,12 +1,26 @@
-a img{
-    width:3rem;
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
-.card img{
-    width:500px;
-    height:400px;
+footer {
+    margin-top: auto;
 }
+
+a img {
+    width: 3rem;
+}
+
 .card-body{
+    width:37rem;
+}
+.card img {
+    width: 37rem;
+    height:30rem;
+}
+
+.card-body {
     background-color: rgb(185, 185, 185);
     color: black;
 }
